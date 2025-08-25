@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋, I'm Trinathmuli
 🚀 I’m learning **Java, JavaScript, and GitHub**  
 💻 I’m interested in programming, coding projects, and open source  
