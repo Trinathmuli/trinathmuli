@@ -9,6 +9,6 @@
 - Git & GitHub (Basics)
 
 ## 📫 Contact Me
-- Email: your-email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- Email: your-trinathmuli05@gmail.com
+- LinkedIn: [Your Profile](https://linkedin.com/in/trinath-muli)
 - GitHub: [Trinathmuli](https://github.com/Trinathmuli)
