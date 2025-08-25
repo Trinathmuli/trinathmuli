@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Trinathmuli/trinathmuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Trinathmuli
+🚀 I’m learning **Java, JavaScript, and GitHub**  
+💻 I’m interested in programming, coding projects, and open source  
+🌱 Currently exploring Git & GitHub  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Java (Beginner)
+- JavaScript (Learning)
+- Git & GitHub (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: your-email@example.com
+- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [Trinathmuli](https://github.com/Trinathmuli)
