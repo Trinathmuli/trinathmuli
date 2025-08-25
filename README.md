@@ -10,5 +10,5 @@
 
 ## 📫 Contact Me
 - Email: your-trinathmuli05@gmail.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/trinath-muli)
+- LinkedIn: [Your Profile](https://linkedin.com/in/in/trinath-muli-424955373)
 - GitHub: [Trinathmuli](https://github.com/Trinathmuli)
