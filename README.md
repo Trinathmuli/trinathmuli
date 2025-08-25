@@ -9,6 +9,6 @@
 - Git & GitHub (Basics)
 
 ## 📫 Contact Me
-- Email: your-trinathmuli05@gmail.com
-- LinkedIn: [Trinath-muli](https://linkedin.com/in/trinath-muli-424955373)
+- Email:trinathmuli05@gmail.com
+- LinkedIn: [Trinath-Muli](https://linkedin.com/in/trinath-muli-424955373)
 - GitHub: [Trinathmuli](https://github.com/Trinathmuli)
